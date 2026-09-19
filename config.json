@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "FabricCraftx.aternos.me",
+  "serverPort": 41262,
+  "botUsername": "Myfabric",
   "botChunk": 1
 }
