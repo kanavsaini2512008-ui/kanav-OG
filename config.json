@@ -1,8 +1,0 @@
-{
-  "serverHost": "loopsmp.asrv.qzz.io",
-  "serverPort": 20057,
-  "botUsername": "janvar",
-  "botChunk": 1,
-  "reconnectDelay": 5000,
-  "maxReconnectDelay": 60000
-}
