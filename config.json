@@ -2,5 +2,7 @@
   "serverHost": "loopsmp.asrv.qzz.io",
   "serverPort": 20057,
   "botUsername": "Jandubaba",
-  "botChunk": 1
+  "botChunk": 1,
+  "reconnectDelay": 5000,
+  "maxReconnectDelay": 60000
 }
